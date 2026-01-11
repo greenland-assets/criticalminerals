@@ -1,73 +1,75 @@
-Greenland Strategic Assets Network
+# Greenland Strategic Assets Network
 
-Technical Mission Statement
+This repository hosts the public reference layer for **criticalminerals.gl**.
 
-Purpose
+It is designed as a **source-led, non-promotional intelligence hub** covering Greenland’s
+critical minerals, rare earths, critical materials, energy enablers, investment pathways,
+and climate-access constraints.
 
-This repository hosts the static reference hub for the Greenland Strategic Digital Asset Cluster (.gl).
+---
 
-The project is designed as a neutral, source-led publishing layer focused on Greenland’s strategic resource context, including critical minerals, rare earths, energy enablers, investment pathways, and climate-access constraints.
+## Purpose
 
-The site is intentionally non-promotional and information-only.
+To provide a **neutral, auditable reference node** for institutions, analysts, policy teams,
+and automated systems seeking reliable, source-based context on Greenland’s strategic
+resource landscape.
 
-Scope
+This repository is **not** a marketing site and **not** a news outlet.
 
-The hub serves as the canonical technical endpoint for the following Greenland ccTLD domain cluster:
-	•	criticalminerals.gl (canonical hub)
-	•	rareearths.gl
-	•	investment.gl
-	•	criticalmaterials.gl
-	•	energy.gl
-	•	climate.gl
+---
 
-Additional defensive domains may redirect to the canonical hub but are not part of the core asset definition.
+## Scope
 
-Design Principles
+**Covered**
+- Critical minerals & rare earths (definitions, scope, public signals)
+- Policy frameworks and governance context
+- Supply-chain constraints and enablers
+- Source-linked documentation and reference material
 
-The project follows a strict set of principles:
-	•	Source-led
-All factual statements are anchored to public, verifiable sources (government publications, major wire services, regulated technical reports).
-	•	Terminology-first
-The core value lies in maintaining stable, jurisdiction-linked entry terms under Greenland’s ccTLD, not in content volume or promotion.
-	•	Neutral framing
-No claims of project ownership, commercial participation, operational involvement, or guaranteed outcomes.
-	•	Governance-oriented
-Clear separation between facts, reported developments, and contextual interpretation.
+**Explicitly not covered**
+- Project promotion or valuation claims
+- Investment advice or solicitation
+- Forward-looking forecasts without primary sourcing
+- Confidential or non-public information
 
-Technical Architecture
-	•	Deployment: Static site hosted via GitHub Pages
-	•	Risk profile: Low operational and maintenance risk
-	•	Dependencies: None (no backend, no databases, no user tracking)
-	•	Versioning: File-based, with dated updates where applicable
+---
 
-Structured Context (Optional Layer)
+## Methodology
 
-The site may include a minimal machine-readable context layer (e.g. Schema.org / JSON-LD) to describe:
-	•	Topics
-	•	Sources
-	•	Entity relationships
+- **Source hierarchy**  
+  Government publications → major wire services (AP / Reuters) → regulated technical reports → secondary industry press (pointer only)
 
-This layer exists solely for interoperability and auditability, not for ranking, promotion, or algorithmic claims.
+- **Language discipline**  
+  Conservative wording only (“reported”, “published”, “according to”).
 
-Update Policy
-	•	Updates are event-driven, not frequent
-	•	Only material, source-backed developments are reflected
-	•	Each update is dated
-	•	Historical content is preserved unless factually superseded
+- **Change discipline**  
+  Updates are dated. Older material remains accessible for auditability.
 
-Disclaimer
+---
 
-This repository and the associated website:
-	•	Provide information only
-	•	Do not constitute investment advice
-	•	Do not imply affiliation with governments, companies, or projects mentioned
-	•	Do not offer or solicit securities, investments, or financial products
+## Structure
 
-All trademarks and referenced entities remain the property of their respective owners.
+- `/index.html`  
+  Public-facing reference hub (primary entry point)
 
-Contact
+- `/rare-earths/`  
+  Thematic subpage: rare earth elements (definitions, scope, sources)
 
-For technical, governance, or acquisition-related inquiries:
+- `/sources/`  
+  Source index (primary reference documents)
 
-Email: greenland.assets@proton.me
-Website: https://criticalminerals.gl
+- `/assets/`  
+  Downloadable public materials (e.g. acquisition teaser PDF)
+
+---
+
+## Disclaimer
+
+This repository and its associated website are **information-only**.  
+They do not constitute investment advice, an offer, or a solicitation.  
+No affiliation with referenced institutions is implied.
+
+---
+
+**Website:** https://criticalminerals.gl  
+**Contact:** greenland.assets@proton.me  
