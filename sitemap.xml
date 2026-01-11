@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://criticalminerals.gl/</loc>
   </url>
 
-    <url>
+  <url>
     <loc>https://criticalminerals.gl/rare-earths/</loc>
   </url>
+
+  <url>
+    <loc>https://criticalminerals.gl/sources/</loc>
+  </url>
+
+  <url>
+    <loc>https://criticalminerals.gl/assets/greenland-cluster-teaser-v1-1.pdf</loc>
+  </url>
+
 </urlset>
