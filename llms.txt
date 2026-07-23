@@ -1,0 +1,26 @@
+# CriticalMinerals.gl
+
+Independent, source-led reference hub on Greenland’s strategic resources and enabling conditions.
+
+## Canonical Resource
+
+[Home](https://criticalminerals.gl/)
+
+## Main Sections
+
+- [Rare Earths](https://criticalminerals.gl/rare-earths/)
+- [Energy](https://criticalminerals.gl/energy/)
+- [Investment](https://criticalminerals.gl/investment/)
+- [Sources](https://criticalminerals.gl/sources/)
+
+## Purpose
+
+CriticalMinerals.gl provides a stable reference gateway for Greenland’s critical minerals, rare earth elements, energy conditions, investment context and strategic supply-chain relevance.
+
+## Administrative
+
+No separate administrative resources are published.
+
+## Repository
+
+[CriticalMinerals Reference Repository](https://github.com/greenland-assets/criticalminerals)
